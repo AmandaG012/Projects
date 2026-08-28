@@ -1,0 +1,1 @@
+[{"id":1,"name":"cat","password":"pass1","role":"helper"},{"id":2,"name":"bbb","password":"ccc","role":"user"},{"id":3,"name":"aa","password":"b","role":"manager"},{"id":4,"name":"aaa","password":"bbb","role":"manager"},{"id":5,"name":"john manager","password":"a","role":"manager"},{"id":6,"name":"cat2","password":"a","role":"helper"}]
